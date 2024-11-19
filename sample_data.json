@@ -1,0 +1,24 @@
+[
+    {
+        "SR NO": "BCDD-II, BBSR ",
+        "Name of Circle": "CS PUR-2 ",
+        "Name of Division": "11KV ",
+        "GSS Name /PSS Name": "HOUSING BOARD-1 ",
+        "Voltage Level": "19-NOV-2024 09:00 ",
+        "Feeder/Equipment Name": "19-NOV-2024 14:00 ",
+        "Date of Outage & Isolation Time": "Project Work ",
+        "Expected Restoration Time": "Sailashree vihar phase 6 VIM,  kaish vihar ",
+        "Reason of Outage": "LT AB Cable stringing & feeder maintenance work  "
+    },
+    {
+        "SR NO": "BCDD-II, BBSR ",
+        "Name of Circle": "CS PUR-2 ",
+        "Name of Division": "11KV ",
+        "GSS Name /PSS Name": "CSPUR BDA -2 ",
+        "Voltage Level": "19-NOV-2024 09:00 ",
+        "Feeder/Equipment Name": "19-NOV-2024 14:00 ",
+        "Date of Outage & Isolation Time": "Routine Maintenance ",
+        "Expected Restoration Time": "Niladri vihar scctor 1/2/3 ",
+        "Reason of Outage": "Tree trimming and feeder maintenance work  "
+    }
+]
